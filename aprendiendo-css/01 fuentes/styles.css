@@ -1,0 +1,22 @@
+body{
+    background: rgb(238, 130, 130);
+}
+
+h1{
+    font-family: 'Courgette', cursive;
+    font-style: italic;
+    font-size: 45px;
+    text-transform: uppercase;
+
+}
+h3{
+    font-family: "comic Sans MS";
+    font-size: 25PX;
+}
+
+P{
+    
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
